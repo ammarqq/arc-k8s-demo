@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: endpointsa
+  name: endpoints
   namespace: team-a
 data:
   logs: https://logs.endpoint.internal.corpnet
