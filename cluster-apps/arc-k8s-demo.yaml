@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: arc-k8s-demo2
+  name: arc-k8s-demo
 spec:
   replicas: 1
   selector:
