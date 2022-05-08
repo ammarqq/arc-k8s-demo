@@ -39,7 +39,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: arc-k8s-demo2
+  name: arc-k8s-demo
   labels:
     name: arc-k8s-demo
 spec:
